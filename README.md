@@ -13,10 +13,4 @@ Continuous Interaction: After viewing one habitat, users can continue to explore
 
 Python: The entire program is implemented in Python, utilizing its simple syntax and interactivity.
 ASCII Art: The habitats are represented using ASCII art, demonstrating creativity and artistic representation through text characters.
-
--Benefits and Learning:
-
-This project showcases proficiency in Python programming, including loops, conditionals, and interactive input/output.
-The interactive nature of the program demonstrates the ability to create engaging and user-friendly applications.
-The artistic aspect of ASCII art displays creativity in visual representation using text characters.
 https://github.com/vianaxx/Zookeeper/assets/124326973/59fe6332-08e3-4c93-9a5c-7683745f514c
