@@ -23,8 +23,13 @@ This Python program allows users to view different animal habitats and their des
 - The program handles input validation and displays the corresponding habitat's information.
 - You can customize the animal habitats, descriptions, and images as desired.
 
+## Acknowledgements
+
+This project is inspired by the JetBrains Academy.
+
+https://github.com/vianaxx/Zookeeper/assets/124326973/59fe6332-08e3-4c93-9a5c-7683745f514c
+
 Feel free to modify and expand this program according to your preferences. Explore the different animal habitats and enjoy the ASCII art images!
 
 Have fun exploring the various animal habitats and their descriptions using this program!
 
-https://github.com/vianaxx/Zookeeper/assets/124326973/59fe6332-08e3-4c93-9a5c-7683745f514c
