@@ -1,17 +1,30 @@
 # Virtual Zoo with Interactive Habitat Viewer
 
-The "Virtual Zoo with Interactive Habitat Viewer" is a Python program that simulates a virtual zoo with different animal habitats. It offers an interactive experience for users to view and switch between various animal habitats, displaying ASCII art representations of each animal. Users can explore the habitats by selecting the corresponding numbers from the menu.
+This Python program allows users to view different animal habitats and their descriptions. Users can choose a habitat by entering the corresponding number. The program displays the habitat's description and image.
 
-- Key Features:
+## Features
 
-Multiple Animal Habitats: The program includes various habitats, such as the camel, lion, deer, goose, bat, and rabbit.
-Interactive Menu: The user is presented with a menu that allows them to select a habitat to view.
-ASCII Art Display: Each animal habitat is represented by a creative and visually appealing ASCII art drawing.
-Continuous Interaction: After viewing one habitat, users can continue to explore other habitats or choose to exit the program.
+- Displays a menu of available animal habitats with corresponding numbers.
+- Prints the selected habitat's description and ASCII art image.
+- Allows users to view multiple habitats or exit the program.
 
-- Technologies Used:
+## Instructions
 
-Python: The entire program is implemented in Python, utilizing its simple syntax and interactivity.
-ASCII Art: The habitats are represented using ASCII art, demonstrating creativity and artistic representation through text characters.
+1. Run the Python program in an environment that supports Python.
+2. The program will display a menu of available animal habitats and their corresponding numbers.
+3. Enter the number of the desired habitat to view its description and image.
+4. To exit the program, enter "exit."
+
+## Notes
+
+- Ensure you have Python installed on your system.
+- The program presents a variety of animal habitats, each with a description and ASCII art image.
+- Users can enter the number of the desired habitat to view it.
+- The program handles input validation and displays the corresponding habitat's information.
+- You can customize the animal habitats, descriptions, and images as desired.
+
+Feel free to modify and expand this program according to your preferences. Explore the different animal habitats and enjoy the ASCII art images!
+
+Have fun exploring the various animal habitats and their descriptions using this program!
 
 https://github.com/vianaxx/Zookeeper/assets/124326973/59fe6332-08e3-4c93-9a5c-7683745f514c
